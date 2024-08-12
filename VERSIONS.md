@@ -2,7 +2,7 @@
 
 See below a list of supported AEM versions of historical archetype versions:
 
-Archetype Version   | AEM Version
+Archetype Version   | AEM Versionvhv
 --------------------|-------------
 7                   | 6.0 or newer
 8                   | 6.0 or newer
